@@ -1,0 +1,15 @@
+body {
+	background: purple;
+}
+
+.big-quote {
+	text-align : center;
+	padding-top : 200px;
+	color : white;
+	font-weight : bold;
+	display : none;
+}
+
+.big-quote h1 {
+	font-size : 48px;
+}
